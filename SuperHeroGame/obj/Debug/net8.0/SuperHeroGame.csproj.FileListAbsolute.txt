@@ -1,0 +1,14 @@
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\bin\Debug\net8.0\SuperHeroGame.exe
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\bin\Debug\net8.0\SuperHeroGame.deps.json
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\bin\Debug\net8.0\SuperHeroGame.runtimeconfig.json
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\bin\Debug\net8.0\SuperHeroGame.dll
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\bin\Debug\net8.0\SuperHeroGame.pdb
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\SuperHeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\SuperHeroGame.AssemblyInfoInputs.cache
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\SuperHeroGame.AssemblyInfo.cs
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\SuperHeroGame.csproj.CoreCompileInputs.cache
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\SuperHeroGame.dll
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\refint\SuperHeroGame.dll
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\SuperHeroGame.pdb
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\SuperHeroGame.genruntimeconfig.cache
+D:\programowanie\_eduj\SuperHeroGame\SuperHeroGame\obj\Debug\net8.0\ref\SuperHeroGame.dll
